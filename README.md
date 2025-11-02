@@ -33,16 +33,15 @@ git clone https://github.com/cybernahid-dev/Astra-2.1.git
 cd Astra-2.1
 pip install -r requirements.txt
 
-##🪟 Windows:
+
+### 🪟 Windows:
 
 git clone https://github.com/cybernahid-dev/Astra-2.1.git
 cd Astra-2.1
 pip install -r requirements.txt
 
 
----
-
-##🚀 Usage
+### 🚀 Usage
 
 🧠 Start Astra
 
@@ -66,9 +65,9 @@ You: Hello Astra!
 Astra: Hi there 👋! How can I help you today?
 
 
----
 
-##💻 Commands
+
+### 💻 Commands
 
 Command	Function
 
@@ -81,9 +80,8 @@ Command	Function
 
 
 
----
 
-##🛡️ Security & Privacy Practices
+## 🛡️ Security & Privacy Practices
 
 ✅ No API key stored in code or repo — key is always input manually or via environment variable.
 ✅ .gitignore protects sensitive files like config.json, memory.json, and logs/.
@@ -97,9 +95,8 @@ It does not support or endorse any exploitative, offensive, or unsafe behavior.
 
 
 
----
 
-##🧩 Configuration (Optional & Safe)
+## 🧩 Configuration (Optional & Safe)
 
 Astra 2.1 connects securely via the OpenRouter API.
 For maximum safety, use an environment variable instead of saving your key anywhere.
@@ -120,7 +117,7 @@ This method is:
 💻 Works across Termux, Linux, macOS, Windows (PowerShell uses setx)
 
 
-##🔐 Security Notes
+## 🔐 Security Notes
 
 🚫 Never hard-code or comment your key anywhere.
 
@@ -130,7 +127,7 @@ This method is:
 
 ✅ Astra ignores and protects all sensitive data automatically.
 
-##🧠 Project Structure
+## 🧠 Project Structure
 
 Astra-2.1/
 │
@@ -143,7 +140,7 @@ Astra-2.1/
 └── memory.json
 
 
----
+
 
 ## 🧾 License
 
