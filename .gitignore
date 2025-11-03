@@ -50,3 +50,4 @@ tests/
 # 🪶 Virtual environment
 venv/
 .env/
+upload.sh
